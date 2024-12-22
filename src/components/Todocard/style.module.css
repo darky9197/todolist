@@ -1,0 +1,21 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e6e6e6;
+    color: #000;
+    font-weight: 700;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 5px 10px;
+}
+
+.actionContainer {
+    display: grid;
+    gap: 1rem;
+}
+
+.actionContainer i {
+    cursor: pointer;
+}   

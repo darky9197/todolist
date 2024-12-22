@@ -1,0 +1,8 @@
+.inputStyling {
+    width:calc(100% - 80px);
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    outline: none;
+    border: 1px solid #575757;
+    border-radius: 5px;
+}
